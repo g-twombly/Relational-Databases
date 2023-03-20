@@ -77,9 +77,3 @@ Here is a suggested guide to using app_admin.py:
 
 Files written to user's system:
 - No files are written to the user's system.
-
-Unfinished features:
-- Log appropriate employee ID in log (couldn't figure this one out, so it defaults to emin).
-- Rigorous checks to validate user input and actions (only basic checks are in place).
-- Getting rid of redundant datasets/cleanup in general.
-- Showing appropriate mySQL errors in the Python interface.
