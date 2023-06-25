@@ -5,9 +5,9 @@ The database supports a certain number of command-line queries as well as
 employee and customer logins. Follow the instructions below to try it out
 for yourself. Thank you!
 
-## Data source: 
+## Data source:
 https://www.kaggle.com/datasets/rtatman/lego-database?select=parts.csv
-
+<br>
 NOTE: THIS PROGRAM IS TESTED ON SQL 5.7 (MAMP SQL).
 
 ## Instructions for loading data on command-line:
